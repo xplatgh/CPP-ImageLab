@@ -65,4 +65,4 @@ Environment and configuration:
 
 
 
-Note that the lena.jpg and fruits.jpg used in this project are from the folder “./samples/c/” in the OpenCV installation directory.
+Note that the "lena.jpg" and the "fruits.jpg" used in this project are from the folder “./samples/c/” in the OpenCV installation directory.
