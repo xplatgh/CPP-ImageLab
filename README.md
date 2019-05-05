@@ -1,13 +1,13 @@
 # CPP-ImageLab
 
 
-This project consists of some implementation of several commonly used algorithms in the field of image processing, such as addition, rotation, 2D-DFT, 2D-DCT, gray transformation, spatial domain and frequency domain filters, edge detection, etc. All of the functions are implemented in C/C++ language, resulting in a Win32 console application. And all of the results can be saved as pictures in .jpg format.
+This project consists of some implementation of several commonly used algorithms in the field of image processing, such as addition, rotation, 2D-DFT, 2D-DCT, gray transformation, spatial domain and frequency domain filters, edge detection, etc. All of the functions are implemented in C/C++ language, resulting in a Win32 console application. All of the results can be saved as pictures in .jpg format.
 
 
 
 
 
-All the implemented algorithms are as follows:
+All of the implemented algorithms are as follows:
 
 
     1.Basic operations: addition, subtraction, multiplication, cutting, rotation; 
